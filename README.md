@@ -19,11 +19,4 @@ Rendered from `final_hwra.qmd`:
 3. Scatterplot of grass cover vs risk score, colored by island.
 4. (Optional) Correlation heatmap of scaled variables.
 
-## How to run
-
-1. Clone this repo.
-2. Open `final_hwra.qmd` in RStudio.
-3. Click **Render**.
-4. Plots will be saved in the `output/` folder.
-
 
